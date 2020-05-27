@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Best Quotes</string>
+    <string name="right_quotation_mark">”</string>
+    <string name="left_quotation_mark">“</string>
+</resources>
